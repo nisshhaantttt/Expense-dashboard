@@ -90,13 +90,13 @@ The objective of this project is to demonstrate practical Excel skills used in B
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of the dashboard here.
+https://github.com/nisshhaantttt/Expense-dashboard/blob/main/Screenshot%202026-07-09%20124143.png
 
 ---
 
 ## 👨‍💻 Author
 
-**Nissh**
+**Nishant**
 
 Aspiring **Business Analyst | Product Analyst | AI Product Manager**
 
