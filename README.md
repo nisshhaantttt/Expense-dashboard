@@ -98,5 +98,4 @@ https://github.com/nisshhaantttt/Expense-dashboard/blob/main/Screenshot%202026-0
 
 **Nishant**
 
-Aspiring **Business Analyst | Product Analyst | AI Product Manager**
-
+Aspiring Analytics Professional | Excel • SQL • Interactive Dashboards 📊
